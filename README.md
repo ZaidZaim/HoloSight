@@ -35,5 +35,6 @@ After cloning project, please run the Mixed Reality Feature Tool (https://docs.m
 - Microsoft Spatializer.
 
 QR Code used in the demo:
+
 ![QRCode](https://user-images.githubusercontent.com/42948357/136656908-cb25ea96-c833-4458-9cea-d10009c7e82e.png)
 
