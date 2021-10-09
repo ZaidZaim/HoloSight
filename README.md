@@ -20,6 +20,10 @@ Mixed Reality & HoloLens are shaping the 4th Wave of Computing – With HoloLens
 
 #DiversityInclusion, #Accessibility, #mixedReality 
 
+### Instructions:
+
+Using Unity 2019.4.28LTS.
+
 After cloning project, please run the Mixed Reality Feature Tool (https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) and install following packages in the project:
 1. Mixed Reality Toolkit:
 - Mixed Reality Toolkit Examples.
