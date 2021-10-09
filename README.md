@@ -1,7 +1,7 @@
 ## Mixed Reality for Accessibility: HoloSight
 We want to Enable blind people to have more accessibility in public transport with the help of AR and HoloLens
 
-Created @ ITS-Hackathon 2021 organized by Deutsche Bahn
+Created [@ ITS-Hackathon 2021](https://gobeta.de/veranstaltungen/its-city-hack-2021/) organized by Deutsche Bahn
 
 ![image](https://user-images.githubusercontent.com/43517319/136654202-1676a10f-bfa0-4205-86be-10bf69dd46aa.png)
 
