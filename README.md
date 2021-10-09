@@ -19,3 +19,13 @@ Mixed Reality & HoloLens are shaping the 4th Wave of Computing – With HoloLens
 Mixed Reality & HoloLens are shaping the 4th Wave of Computing – With HoloLens we want to demonstrate how this technology can shape our reality and demostarte as a use case how we can use AR in the future for Accessibility in our daily life. Here we are focusing on the following target groups: Visually impaired, blind people and all people intrested in tech. In terms of Accesbilty for visualy impaired peopole we want to guide the visually impaired(By wearing the HoloLens) through TTS and Computervision and AI to get alerts and instruction to navigate in train stations. People who can see wiil be guided with the help of a virtual Bot.
 
 #DiversityInclusion, #Accessibility, #mixedReality 
+
+After cloning project, please run the Mixed Reality Feature Tool (https://docs.microsoft.com/en-us/windows/mixed-reality/develop/unity/welcome-to-mr-feature-tool) and install following packages in the project:
+1. Mixed Reality Toolkit:
+- Mixed Reality Toolkit Examples.
+- Mixed Reality Toolkit Extensions.
+- Mixed Reality Toolkit Foundation.
+- Mixed Reality Toolkit Standard Assets.
+- Mixed Reality Toolkit Tools.
+2. Spatial Audio
+- Microsoft Spatializer.
