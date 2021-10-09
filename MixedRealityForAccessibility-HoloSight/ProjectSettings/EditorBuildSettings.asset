@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ITSHack.unity
+    path: Assets/Scenes/HoloSight.unity
     guid: 88788e46bb8031b4c91d761d46b57f39
   m_configObjects: {}
